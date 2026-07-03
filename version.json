@@ -1,6 +1,7 @@
 {
-    "version":  "1.8.6",
-    "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/FBBulkUploader.exe",
-    "sha256":  "33aa77c31b29d14e39830dc1c2f0a2ad3885f9ba1e7b9ac0f68e48683c465721",
-    "notes":  "Naya \u0027Show browser\u0027 option (Play ke paas) - on karke aap khud dekh sakte hain FB par kya ho raha hai. Debugging ke liye."
+    "version":  "1.8.7",
+    "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
+    "sha256":  "f852425581c4bc0a19ec378663a08043b7a2c14ad2e4f51ae04ba7425348923b",
+    "installer":  true,
+    "notes":  "BADA FIX: auto-update ab poora installer silently chalata hai - is se har PC par zaroori runtime (VC++/UCRT) bhi install hota hai, DLL error khatam. Show browser option bhi."
 }
