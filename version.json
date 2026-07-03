@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.1",
+    "version":  "1.8.2",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/FBBulkUploader.exe",
-    "sha256":  "5b8108c29f4e5a554a6e516ea35b583a8a7b6f0a1c2491305a6cbdbf26007df5",
-    "notes":  "Interface ke garbled icons/text theek kar diye gaye. Please update karein."
+    "sha256":  "0e07ec650b02eb2b3bab45677d3f08fbbcb67f668960da885c4ed371b2c78650",
+    "notes":  "Slow PCs par speed behtar ki gayi - composer ab jaldi khulta hai. Reliability same."
 }
