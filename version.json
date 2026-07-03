@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.7",
+    "version":  "1.8.8",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "f852425581c4bc0a19ec378663a08043b7a2c14ad2e4f51ae04ba7425348923b",
+    "sha256":  "1a968c4d0bb56ea68e3055c5412207d2158d469af0af73f94f287b233e4c8387",
     "installer":  true,
-    "notes":  "BADA FIX: auto-update ab poora installer silently chalata hai - is se har PC par zaroori runtime (VC++/UCRT) bhi install hota hai, DLL error khatam. Show browser option bhi."
+    "notes":  "Fix: FB ka \u0027Include more media\u0027 jaisa popup ab tool khud band kar deta hai - Reel/Video ab Next/Publish tak aage barhta hai (pehle popup ki wajah se ruk jata tha)."
 }
