@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.5",
+    "version":  "1.8.6",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/FBBulkUploader.exe",
-    "sha256":  "155024b37582fe6a88534cc65bcab4f9e4d09f69241f622c5ca30fd587cf7ac7",
-    "notes":  "Fix: Meta Business Suite poora screen na dikhe to ab tool khud SCROLL DOWN karke Publish/Schedule button tak pohanchta hai. Publish detection mazboot + progress log."
+    "sha256":  "33aa77c31b29d14e39830dc1c2f0a2ad3885f9ba1e7b9ac0f68e48683c465721",
+    "notes":  "Naya \u0027Show browser\u0027 option (Play ke paas) - on karke aap khud dekh sakte hain FB par kya ho raha hai. Debugging ke liye."
 }
