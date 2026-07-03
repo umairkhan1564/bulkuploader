@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.0",
+    "version":  "1.8.1",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/FBBulkUploader.exe",
-    "sha256":  "ccabcb9937d66d388b93e5b40aea3df1934c6fb3b543702c03883d3ed3f987c3",
-    "notes":  "Faster, more reliable updates. Renewal ab payment screenshot se hoti hai. Installer khud zaroori components install karta hai. Bug fixes."
+    "sha256":  "5b8108c29f4e5a554a6e516ea35b583a8a7b6f0a1c2491305a6cbdbf26007df5",
+    "notes":  "Interface ke garbled icons/text theek kar diye gaye. Please update karein."
 }
