@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.3",
+    "version":  "1.8.4",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/FBBulkUploader.exe",
-    "sha256":  "9ff92978eee82202d04b3c94ec94803d6890d0d31fb6d2c984fc3198bf94f6cd",
-    "notes":  "Python DLL / UCRT error fix - app ab har Windows par chalega (runtime exe ke andar). Sab renters naya installer chalayein."
+    "sha256":  "2522b9abe7aaebaed2d6fcfee30faaf04a1949a74341bb5680c6c9872feb698e",
+    "notes":  "Fix: choti laptop screen par tool galat \u0027published\u0027 bata deta tha jabke post hota nahi tha - ab Publish button actually click hone par hi success. Bade composer viewport."
 }
