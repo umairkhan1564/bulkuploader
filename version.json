@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.4",
+    "version":  "1.8.5",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/FBBulkUploader.exe",
-    "sha256":  "2522b9abe7aaebaed2d6fcfee30faaf04a1949a74341bb5680c6c9872feb698e",
-    "notes":  "Fix: choti laptop screen par tool galat \u0027published\u0027 bata deta tha jabke post hota nahi tha - ab Publish button actually click hone par hi success. Bade composer viewport."
+    "sha256":  "155024b37582fe6a88534cc65bcab4f9e4d09f69241f622c5ca30fd587cf7ac7",
+    "notes":  "Fix: Meta Business Suite poora screen na dikhe to ab tool khud SCROLL DOWN karke Publish/Schedule button tak pohanchta hai. Publish detection mazboot + progress log."
 }
