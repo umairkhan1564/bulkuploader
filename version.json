@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.9",
+    "version":  "1.8.10",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "399125b75c9376ddb73185bf0c6645d8ff41c9e4363afa3c7652a07c3118aa91",
+    "sha256":  "039129ecd0d21c8f804e2ff331f637d57a0b16a9f13eb6f8c27dd6fff4ae677f",
     "installer":  true,
-    "notes":  "Fix: Reel ka footer \u0027Next\u0027 button ab reliably scroll karke click hota hai (Create -\u003e Edit -\u003e Share). Pehle reel Next par ruk jata tha."
+    "notes":  "Fix: reel/post composer full-page hai (dialog nahi) - ab tool har scrollable panel ko neeche scroll karke Next/Publish button reveal karke click karta hai."
 }
