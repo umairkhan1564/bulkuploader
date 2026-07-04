@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.16",
+    "version":  "1.8.17",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "ac9713fd0f60c3bd5a07f125aa6c9da20d653bd1261763feff48628f217ee2fe",
+    "sha256":  "aab472ac8493806f0d261b03dcf3268573bdde63393cf66ee85854fffdf9d1a5",
     "installer":  true,
-    "notes":  "Fix: reel Next ab footer wala (last) button click karta hai + agar Next abhi disabled ho (processing) to wait karta hai. Log ab detail deta hai (matches count)."
+    "notes":  "Fix: reel post ho jane par ab SAHI \u0027published\u0027 confirm hota hai (URL composer chhod deta hai = posted). Pehle post hone ke bawajood galti se FAILED bata deta tha."
 }
