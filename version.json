@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.17",
+    "version":  "1.8.18",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "aab472ac8493806f0d261b03dcf3268573bdde63393cf66ee85854fffdf9d1a5",
+    "sha256":  "7bf834f8ec4a7142df21aea2bfa1a1ed2a553392ee784109630cfe23b255e048",
     "installer":  true,
-    "notes":  "Fix: reel post ho jane par ab SAHI \u0027published\u0027 confirm hota hai (URL composer chhod deta hai = posted). Pehle post hone ke bawajood galti se FAILED bata deta tha."
+    "notes":  "Fix: reel Share ke baad \u0027Reel processing\u0027 dialog ab success mana jata hai + \u0027Done\u0027 click hota hai. Ab reel SAHI \u0027published\u0027 confirm karega."
 }
