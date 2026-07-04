@@ -1,7 +1,7 @@
 {
-    "version":  "1",
+    "version":  "1.1",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "9a41d0ff57ce1b44c76f1c209b5793182934c3eb742c267b9c070bf139d903cb",
+    "sha256":  "b808398a5eef2bcd5412e01e37485fd8c6cde739e4449cb77262c1b470c7ea6f",
     "installer":  true,
-    "notes":  "Bulk Uploader Version 1 - Reels aur Videos poori tarah post + schedule, DLL error fix, aur zyada. Website se download/reinstall karein."
+    "notes":  "Fix: scheduled video ab sahi \u0027posted\u0027 dikhata hai (\u0027Video post scheduled\u0027 confirmation ab pehchana jata hai) - pehle galti se failed bata deta tha. Reel + video posting/scheduling fully working."
 }
