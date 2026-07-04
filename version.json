@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.15",
+    "version":  "1.8.16",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "68c5870d58c7d0b1602102a5f36f6fcd8412e7a0d0baef705dc22515f0cb1d18",
+    "sha256":  "ac9713fd0f60c3bd5a07f125aa6c9da20d653bd1261763feff48628f217ee2fe",
     "installer":  true,
-    "notes":  "Fix: reel ab neeche (footer) wala asli \u0027Share\u0027 button click karta hai (upar stepper wala \u0027Share\u0027 nahi) - reel ab publish hogi."
+    "notes":  "Fix: reel Next ab footer wala (last) button click karta hai + agar Next abhi disabled ho (processing) to wait karta hai. Log ab detail deta hai (matches count)."
 }
