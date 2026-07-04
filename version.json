@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.13",
+    "version":  "1.8.14",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "0263dc36664557ec57f550d7eeaff6c8d9ad28d0067b5946f1b60d438fbb48ae",
+    "sha256":  "cd87b4f5fafaa2c154d184f3dea077ed4151fae5dd3f962f8c797379a3e557a3",
     "installer":  true,
-    "notes":  "Fix: (1) Show browser window ab har PC/laptop par on-screen khulti hai. (2) Off-screen browser ab poori tarah render karta hai (kai systems par posting reliability). (3) Reel \u0027published\u0027 ab strict verify - jhoota confirmed nahi."
+    "notes":  "Fix: reel final button ab sirf asli Publish button dhoondta hai (pehle \u0027Share\u0027 step-label par click ho jata tha jo publish nahi karta)."
 }
