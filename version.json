@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.18",
+    "version":  "1.8.19",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "7bf834f8ec4a7142df21aea2bfa1a1ed2a553392ee784109630cfe23b255e048",
+    "sha256":  "2d62afaf7191d56f84da7018c621af6a14f13023412e5ab428487ae69eae22a1",
     "installer":  true,
-    "notes":  "Fix: reel Share ke baad \u0027Reel processing\u0027 dialog ab success mana jata hai + \u0027Done\u0027 click hota hai. Ab reel SAHI \u0027published\u0027 confirm karega."
+    "notes":  "Fix: slow laptop par \u0027Publishing your post...\u0027 ab success mana jata hai (reel publish ho rahi hoti hai). Pehle slow net par wait khatam hone par FAILED bata deta tha."
 }
