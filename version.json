@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.19",
+    "version":  "1.8.20",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "2d62afaf7191d56f84da7018c621af6a14f13023412e5ab428487ae69eae22a1",
+    "sha256":  "562c0bec7cf372a9300aafed39b1451bb2911336844c8e8fd5c41e3419271a8b",
     "installer":  true,
-    "notes":  "Fix: slow laptop par \u0027Publishing your post...\u0027 ab success mana jata hai (reel publish ho rahi hoti hai). Pehle slow net par wait khatam hone par FAILED bata deta tha."
+    "notes":  "BADA FIX: DLL error khatam - ab onedir build (DLLs temp mein extract nahi, install folder me permanent). Trial bhi robust (kharab/purani date ignore). Har PC par chalega."
 }
