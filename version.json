@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.14",
+    "version":  "1.8.15",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "cd87b4f5fafaa2c154d184f3dea077ed4151fae5dd3f962f8c797379a3e557a3",
+    "sha256":  "68c5870d58c7d0b1602102a5f36f6fcd8412e7a0d0baef705dc22515f0cb1d18",
     "installer":  true,
-    "notes":  "Fix: reel final button ab sirf asli Publish button dhoondta hai (pehle \u0027Share\u0027 step-label par click ho jata tha jo publish nahi karta)."
+    "notes":  "Fix: reel ab neeche (footer) wala asli \u0027Share\u0027 button click karta hai (upar stepper wala \u0027Share\u0027 nahi) - reel ab publish hogi."
 }
