@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.11",
+    "version":  "1.8.12",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "a0a35a987c87874b7eb32d7fb88b24e108f3c0e131b4f8409df9204526aa42a4",
+    "sha256":  "97068e0c81ef8f9b2f65daddf6e25b3d4282b4dbc840baee37b4eac1e5760878",
     "installer":  true,
-    "notes":  "ZAROORI FIX: Reel ab \u0027posted\u0027 tabhi batata hai jab video WAQAI publish ho jaye (pehle click karte hi false \u0027posted\u0027 bata deta tha, video aati nahi thi). Ab confirm na ho to honestly FAILED."
+    "notes":  "Fix: nayi machine par trial ab sahi start hota hai (kharab/purani trial date ignore hoti hai). Trial ki detail log mein bhi aati hai."
 }
