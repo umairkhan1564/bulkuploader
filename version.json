@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.10",
+    "version":  "1.8.11",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "039129ecd0d21c8f804e2ff331f637d57a0b16a9f13eb6f8c27dd6fff4ae677f",
+    "sha256":  "a0a35a987c87874b7eb32d7fb88b24e108f3c0e131b4f8409df9204526aa42a4",
     "installer":  true,
-    "notes":  "Fix: reel/post composer full-page hai (dialog nahi) - ab tool har scrollable panel ko neeche scroll karke Next/Publish button reveal karke click karta hai."
+    "notes":  "ZAROORI FIX: Reel ab \u0027posted\u0027 tabhi batata hai jab video WAQAI publish ho jaye (pehle click karte hi false \u0027posted\u0027 bata deta tha, video aati nahi thi). Ab confirm na ho to honestly FAILED."
 }
