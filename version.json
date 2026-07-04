@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.12",
+    "version":  "1.8.13",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "97068e0c81ef8f9b2f65daddf6e25b3d4282b4dbc840baee37b4eac1e5760878",
+    "sha256":  "0263dc36664557ec57f550d7eeaff6c8d9ad28d0067b5946f1b60d438fbb48ae",
     "installer":  true,
-    "notes":  "Fix: nayi machine par trial ab sahi start hota hai (kharab/purani trial date ignore hoti hai). Trial ki detail log mein bhi aati hai."
+    "notes":  "Fix: (1) Show browser window ab har PC/laptop par on-screen khulti hai. (2) Off-screen browser ab poori tarah render karta hai (kai systems par posting reliability). (3) Reel \u0027published\u0027 ab strict verify - jhoota confirmed nahi."
 }
