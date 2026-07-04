@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.20",
+    "version":  "1",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "562c0bec7cf372a9300aafed39b1451bb2911336844c8e8fd5c41e3419271a8b",
+    "sha256":  "9a41d0ff57ce1b44c76f1c209b5793182934c3eb742c267b9c070bf139d903cb",
     "installer":  true,
-    "notes":  "BADA FIX: DLL error khatam - ab onedir build (DLLs temp mein extract nahi, install folder me permanent). Trial bhi robust (kharab/purani date ignore). Har PC par chalega."
+    "notes":  "Bulk Uploader Version 1 - Reels aur Videos poori tarah post + schedule, DLL error fix, aur zyada. Website se download/reinstall karein."
 }
