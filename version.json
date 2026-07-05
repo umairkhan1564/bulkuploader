@@ -1,7 +1,7 @@
 {
-    "version":  "1.4",
+    "version":  "1.5",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "657d1a199a5e376291006a40886b23adc7b92e61a4cadc3e1129ef96cc06a39f",
+    "sha256":  "d3d00d85d70d580688cc2ad7f19cc855ebc2944721fe756681b5adebf69061ca",
     "installer":  true,
-    "notes":  "Planner wala issue fix: ab har schedule ke baad direct composer khulta hai, kuch pages par jahan 1-2 post ke baad phas jata tha wo theek. Baaki sab settings same."
+    "notes":  "Schedule loop fix: ab schedule ke baad post confirm hote hi tool agli video par chala jata hai (composer chhodne ko success maanta hai), \u0027Schedule click\u0027 me atakta nahi. Baaki sab same."
 }
