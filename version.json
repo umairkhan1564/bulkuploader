@@ -1,7 +1,7 @@
 {
-    "version":  "1.2",
+    "version":  "1.3",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "f4ac85b8773b79478282eb3d67693261cdddbdb6b3e3dd0ef1d5aefec66aa7ff",
+    "sha256":  "a276c95fd8144dca37b0ba4cef0ad83232092879829e686d87cbc4a0f52ce122",
     "installer":  true,
-    "notes":  "Fix: video/image schedule ke baad \u0027Schedule\u0027 bar-bar click hone ka loop khatam - \u0027Video post scheduled\u0027 confirmation ab har flow (video/image/reel) mein pehchana jata hai aur Done click hota hai."
+    "notes":  "Schedule ka time ab sahi set hota hai. Videos folder se sahi order mein (1,2,3...10) uthti hain. Login + license ab reinstall/update par nahi maangta. Schedule ke baad agla post bhi theek hota hai."
 }
