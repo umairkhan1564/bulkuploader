@@ -1,7 +1,7 @@
 {
-    "version":  "1.5",
+    "version":  "1.6",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "d3d00d85d70d580688cc2ad7f19cc855ebc2944721fe756681b5adebf69061ca",
+    "sha256":  "6e0ac407eb09498e6c68e3acbfad1cf786a9a62879c174167588e9312a2de41d",
     "installer":  true,
-    "notes":  "Schedule loop fix: ab schedule ke baad post confirm hote hi tool agli video par chala jata hai (composer chhodne ko success maanta hai), \u0027Schedule click\u0027 me atakta nahi. Baaki sab same."
+    "notes":  "Naye system fix: free trial ke doran (bina key ke) bhi Play/Run once ab kaam karta hai. Pehle trial active hone ke bawajood action par key maangta tha — ab theek. Baaki sab settings same."
 }
