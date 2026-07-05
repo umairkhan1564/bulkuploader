@@ -24,6 +24,12 @@
   .brand .g{background:linear-gradient(135deg,var(--accent),#c084fc);-webkit-background-clip:text;background-clip:text;color:transparent}
   .stepcount{margin-left:auto;color:var(--muted);font-size:14px;font-weight:600}
 
+  .videowrap{margin-bottom:22px}
+  .vhead{margin-bottom:12px}
+  .videowrap video{width:100%;display:block;border-radius:20px;border:1px solid var(--border);
+    background:#000;box-shadow:0 20px 60px rgba(0,0,0,.5);aspect-ratio:16/9}
+  .vsub{text-align:center;color:var(--muted);font-size:13.5px;margin-top:12px}
+
   .frame{position:relative;background:var(--card);border:1px solid var(--border);border-radius:20px;
     overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,.5)}
   .progress{height:4px;background:var(--card2)}
@@ -85,6 +91,17 @@
       Bulk Uploader <span class="g">By Umair</span>
     </div>
     <span class="stepcount" id="stepcount">Step 1 / 8</span>
+  </div>
+
+  <!-- real video tutorial -->
+  <div class="videowrap">
+    <div class="vhead"><span class="badge">🎬 PURA VIDEO TUTORIAL</span></div>
+    <video id="tut" controls preload="metadata" playsinline poster="demo/dashboard.png">
+      <source src="bulk-uploader-tutorial.mp4" type="video/mp4">
+      Aapka browser video support nahi karta —
+      <a href="bulk-uploader-tutorial.mp4" style="color:var(--accent)">yahan download karein</a>.
+    </video>
+    <p class="vsub">Poora setup step-by-step is video mein. Neeche animated guide bhi dekh sakte hain.</p>
   </div>
 
   <div class="frame">
@@ -297,6 +314,10 @@
 
   // start
   runSceneAnim(0); resetProgress(); schedule();
+
+  // pause the animated slideshow while the real video is playing
+  var tut=document.getElementById('tut'), pbtn=document.getElementById('play');
+  if(tut&&pbtn){ tut.addEventListener('play',function(){ if(playing) pbtn.click(); }); }
 })();
 </script>
 </body>
