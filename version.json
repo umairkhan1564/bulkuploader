@@ -1,7 +1,7 @@
 {
-    "version":  "1.1",
+    "version":  "1.2",
     "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "b808398a5eef2bcd5412e01e37485fd8c6cde739e4449cb77262c1b470c7ea6f",
+    "sha256":  "f4ac85b8773b79478282eb3d67693261cdddbdb6b3e3dd0ef1d5aefec66aa7ff",
     "installer":  true,
-    "notes":  "Fix: scheduled video ab sahi \u0027posted\u0027 dikhata hai (\u0027Video post scheduled\u0027 confirmation ab pehchana jata hai) - pehle galti se failed bata deta tha. Reel + video posting/scheduling fully working."
+    "notes":  "Fix: video/image schedule ke baad \u0027Schedule\u0027 bar-bar click hone ka loop khatam - \u0027Video post scheduled\u0027 confirmation ab har flow (video/image/reel) mein pehchana jata hai aur Done click hota hai."
 }
