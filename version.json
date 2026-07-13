@@ -1,7 +1,7 @@
 {
-    "version":  "1.6",
-    "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "6e0ac407eb09498e6c68e3acbfad1cf786a9a62879c174167588e9312a2de41d",
+    "version":  "1.7",
+    "url":  "https://umairstudio.co/uploader/BulkUploader_Setup.exe",
+    "sha256":  "c967b566df98d37071852bb292fdc6fdbe0d858d23bc4ab6fda6d324a369a5b0",
     "installer":  true,
-    "notes":  "Naye system fix: free trial ke doran (bina key ke) bhi Play/Run once ab kaam karta hai. Pehle trial active hone ke bawajood action par key maangta tha — ab theek. Baaki sab settings same."
+    "notes":  "Naya: har page par Google Drive folder source (folder + Drive dono); bulk multi-account page creation (auto category); Add account ke waqt browser khula rehta hai (VPN/extra kaam), extensions bhi install ho sakti hain; failed uploads ab History me RED me aati hain. Ab sab kuch umairstudio.co par."
 }
