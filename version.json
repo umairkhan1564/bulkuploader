@@ -1,7 +1,7 @@
 {
-    "version":  "1.7",
-    "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
-    "sha256":  "086182073b2c23dcf6ce88c8a49f1e18739e30bf15e6dcfe18ce080ec49d0dca",
-    "installer":  true,
-    "notes":  "Analytics upgrade: ek hi Refresh ab status + monetization dono karta hai; har page ke liye alag refresh (row me arrow button); table ab boxed grid; Content monetization detection fix; scraping pehle se kaafi tez."
+  "version": "1.13",
+  "url": "https://clipcutstudio.co/uploader/BulkUploader_Setup.exe",
+  "sha256": "f9364520f6ae6052c3b0928889db9b0b48faf17464dfd7f627c7e77ddc7654cc",
+  "installer": true,
+  "notes": "Analytics upgrade: ek hi Refresh ab status + monetization dono karta hai; har page ka apna refresh (row me ↻); boxed table; Content monetization detection fix; scraping kaafi tez. Website ab clipcutstudio.co par."
 }
