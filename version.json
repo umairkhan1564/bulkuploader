@@ -1,7 +1,7 @@
 {
-    "version":  "1.8",
-    "url":  "https://umairstudio.co/uploader/BulkUploader_Setup.exe",
-    "sha256":  "4de625bda89fe9075c3ca6dbd11d41d965085975cdf96fc9eb5a44cc35878f44",
+    "version":  "1.7",
+    "url":  "https://github.com/umairkhan1564/bulkuploader/releases/latest/download/BulkUploader_Setup.exe",
+    "sha256":  "086182073b2c23dcf6ce88c8a49f1e18739e30bf15e6dcfe18ce080ec49d0dca",
     "installer":  true,
-    "notes":  "Naya v1.8: Light/Dark theme switch + naya midnight-blue look (cards par icons, top Reels/Videos/Image neeche Story/Text). Google Drive se post hone ke baad file delete. Account bina pages ke bhi add. Save-password popup band. Failed uploads History me RED."
+    "notes":  "Analytics upgrade: ek hi Refresh ab status + monetization dono karta hai; har page ke liye alag refresh (row me arrow button); table ab boxed grid; Content monetization detection fix; scraping pehle se kaafi tez."
 }
