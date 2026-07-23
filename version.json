@@ -1,7 +1,7 @@
 {
-  "version": "1.13",
+  "version": "1.14",
   "url": "https://clipcutstudio.co/uploader/BulkUploader_Setup.exe",
-  "sha256": "f9364520f6ae6052c3b0928889db9b0b48faf17464dfd7f627c7e77ddc7654cc",
+  "sha256": "6727b2f06934aaace52f07526cd89391b5cc7328029ed2b7c5b5398e33e9c147",
   "installer": true,
-  "notes": "Analytics upgrade: ek hi Refresh ab status + monetization dono karta hai; har page ka apna refresh (row me ↻); boxed table; Content monetization detection fix; scraping kaafi tez. Website ab clipcutstudio.co par."
+  "notes": "Google Drive download fix: ab limit lagne par app turant FAIL nahi karti — 20s/1m/2.5m ruk kar khud dobara koshish karti hai, adhoori file wahin se resume hoti hai, aur downloads ke beech gap rakha jata hai taake Google limit lagaye hi na. Jo file phir bhi na aaye wo agle run me khud aa jati hai. Videos/settings kuch badalne ki zaroorat nahi."
 }
